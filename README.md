@@ -14,7 +14,7 @@ Se exploran aspectos como el tipo de contenido, países con más entregas y evol
 
 ## Herramientas y Librerías 
 
-- Python 3.x
+- Python 3
 - Pandas
 - Matplotlib
 - Seaborn
